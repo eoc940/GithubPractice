@@ -15,5 +15,6 @@ class ViewController: UIViewController {
     }
     // 작업했다
     // person1
+    // person3
 }
 
